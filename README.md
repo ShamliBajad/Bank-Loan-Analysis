@@ -22,6 +22,9 @@ This project involves analyzing bank loan data to assess risk, make informed len
 ## Created Dashboards
  <img width="615" alt="Loan summery Dashboard-1" src="https://github.com/ShamliBajad/Bank-Loan-Analysis/assets/169564441/9ca0420f-612c-4b08-b2d5-74e56f11b264">
 
+
+ <img width="618" alt="Overview dashboard2" src="https://github.com/ShamliBajad/Bank-Loan-Analysis/assets/169564441/440fe97e-7482-469d-883a-3704a1117f64">
+
   
 
 ## Functionality Performed
