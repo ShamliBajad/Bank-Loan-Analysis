@@ -18,6 +18,10 @@ This project involves analyzing bank loan data to assess risk, make informed len
   - Bad Loan Applications
   - Bad Loan Funded Amount
   - Bad Loan Total Received Amount
+ 
+## Created Dashboards
+- Loan Summary
+  
 
 ## Functionality Performed
 
