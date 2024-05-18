@@ -25,7 +25,9 @@ This project involves analyzing bank loan data to assess risk, make informed len
 
  <img width="618" alt="Overview dashboard2" src="https://github.com/ShamliBajad/Bank-Loan-Analysis/assets/169564441/440fe97e-7482-469d-883a-3704a1117f64">
 
-  
+
+
+  <img width="610" alt="Details dashboard3" src="https://github.com/ShamliBajad/Bank-Loan-Analysis/assets/169564441/43958749-f512-4614-a4bb-a485b9204239">
 
 ## Functionality Performed
 
