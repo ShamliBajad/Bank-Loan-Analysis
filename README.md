@@ -20,7 +20,7 @@ This project involves analyzing bank loan data to assess risk, make informed len
   - Bad Loan Total Received Amount
  
 ## Created Dashboards
- ![Loan Summary](Loan summery Dashboard-1.png)
+ ![Loan summary](Loan summery Dashboard-1.png)
 
   
 
